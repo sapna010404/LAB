@@ -1,1 +1,3 @@
 Hello this is DevOps file
+This is a sample file for DevOps lab!
+
